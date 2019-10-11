@@ -1,4 +1,4 @@
-# Midterm Debate Page
+# Midterm Debate Page :D
 In which we debate whether or not raisins are the worst.
 
 ## Requirements
@@ -14,6 +14,3 @@ Built with:
 ## Authors 
 1. HB - anti-raisins
 2. EK - pro-raisins
-
-##breaking it haha
-more breaks
